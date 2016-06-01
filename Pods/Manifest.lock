@@ -1,0 +1,30 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - Firebase (2.5.1)
+  - IDMPhotoBrowser (1.8.3):
+    - DACircularProgress
+    - pop
+    - SDWebImage
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - pop (1.0.9)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - Firebase
+  - IDMPhotoBrowser
+  - JSQMessagesViewController
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  IDMPhotoBrowser: a9a548910f24a6db53775fa6b6a6101262b20d63
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
